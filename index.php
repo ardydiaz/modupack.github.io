@@ -157,7 +157,7 @@ solution. </p>
 					<h1 class="text-center">Our Industry </h1>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-4">
-					<p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam voluptate unde mollitia sapiente est eos delectus veritatis saepe, commodi. Non!</p>
+					<p class="">Complete TurnkeySolutions and Line Operation Including Preventive Maintenance</p>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-4">
 					<a href="industry.php" class="btn hvr-shutter-out-horizontal btn-industtry">All Industry</a>

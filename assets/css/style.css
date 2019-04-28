@@ -522,7 +522,7 @@ ul{font-family: 'PT Sans', sans-serif;}
 .industry h1{margin: 0px;}
 .industry-title h1::before{
     content: "";
-    background-color: #fdc900;
+    background-color: #f22b2b;
     width: 55px;
     height: 5px;
     position: absolute;
@@ -532,6 +532,7 @@ ul{font-family: 'PT Sans', sans-serif;}
     -ms-border-radius: 3px;
     border-radius: 3px;
     top: 44px;
+    margin-left: 3px;
 }
 .industry .gallery-btn{
   text-align: center;
@@ -553,13 +554,13 @@ ul{font-family: 'PT Sans', sans-serif;}
    color: #000;
    font-weight: bold;
    border-radius: 0px;
-   border: 2px solid #ffa903;
+   border: 2px solid #f22b2b;
    padding: 8px 42px;
    background: transparent;
    font-family: 'Montserrat', sans-serif;
 }
 .btn-industtry:before{
-  background: #ffa903;
+  background: #f22b2b;
 }
 .industry .img-hoverbg{
     background-color: #cecececf;

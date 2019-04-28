@@ -19,35 +19,7 @@
 				  	   <img src="assets/img/industry/product/bagging.png" class="img-responsive">
 					  	<div class="overlay">
 				           <h2>Bagging</h2>
-				           <a class="info" href="#">Read More</a>
-				        </div>
-				  </div>
-  			</div>
-  			<div class="col-lg-4 col-md-4 col-sm-4">
-				  <div class="hovereffect">
-				  	   <img src="assets/img/industry/product/bakery.png" class="img-responsive">
-					  	<div class="overlay">
-				           <h2>Bakery Snacks & Dairy</h2>
-				           <a class="info" href="#">Read More</a>
-				        </div>
-				  </div>
-  			</div>
-  			<div class="col-lg-4 col-md-4 col-sm-4">
-				  <div class="hovereffect">
-				  	   <img src="assets/img/industry/product/bottling.png" class="img-responsive">
-					  	<div class="overlay">
-				           <h2>Bottling & Brewery</h2>
-				           <a class="info" href="#">Read More</a>
-				        </div>
-				  </div>
-  			</div>
-
-  			<div class="col-lg-4 col-md-4 col-sm-4">
-				  <div class="hovereffect">
-				  	   <img src="assets/img/industry/product/pouch.png" class="img-responsive">
-					  	<div class="overlay">
-				           <h2>Pouch</h2>
-				           <a class="info" href="#">Read More</a>
+				           <a class="info" href="bagging.php">Read More</a>
 				        </div>
 				  </div>
   			</div>
@@ -56,7 +28,35 @@
 				  	   <img src="assets/img/industry/product/poultry.png" class="img-responsive">
 					  	<div class="overlay">
 				           <h2>Poultry</h2>
-				           <a class="info" href="#">Read More</a>
+				           <a class="info" href="poultry.php">Read More</a>
+				        </div>
+				  </div>
+  			</div>
+  			<div class="col-lg-4 col-md-4 col-sm-4">
+				  <div class="hovereffect">
+				  	   <img src="assets/img/industry/product/canning.png" class="img-responsive">
+					  	<div class="overlay">
+				           <h2>Canning</h2>
+				           <a class="info" href="canning.php">Read More</a>
+				        </div>
+				  </div>
+  			</div>
+  			<div class="col-lg-4 col-md-4 col-sm-4">
+				  <div class="hovereffect">
+				  	   <img src="assets/img/industry/product/fruits.png" class="img-responsive">
+					  	<div class="overlay">
+				           <h2>Fruits</h2>
+				           <a class="info" href="fruits.php">Read More</a>
+				        </div>
+				  </div>
+  			</div>
+  			
+  			<div class="col-lg-4 col-md-4 col-sm-4">
+				  <div class="hovereffect">
+				  	   <img src="assets/img/industry/product/bottling.png" class="img-responsive">
+					  	<div class="overlay">
+				           <h2>Bottling & Brewery</h2>
+				           <a class="info" href="bottle.php">Read More</a>
 				        </div>
 				  </div>
   			</div>
@@ -65,7 +65,7 @@
 				  	   <img src="assets/img/industry/product/meat.png" class="img-responsive">
 					  	<div class="overlay">
 				           <h2>Meat</h2>
-				           <a class="info" href="#">Read More</a>
+				           <a class="info" href="meat.php">Read More</a>
 				        </div>
 				  </div>
   			</div>

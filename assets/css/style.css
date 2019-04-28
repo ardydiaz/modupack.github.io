@@ -513,7 +513,6 @@ ul{font-family: 'PT Sans', sans-serif;}
        INDUSTRY
 ============================================= */
 .industry{
-  /* background: url(../../assets/img/industry/bg.png) no-repeat; */
   background-size: 100%;
   color: #000;
   padding: 90px;
@@ -581,7 +580,6 @@ ul{font-family: 'PT Sans', sans-serif;}
   text-decoration: none;
 }
 
-
 /* ------------------------------------
     SINGLE RESULT INDUSTRY
 -------------------------------------- */
@@ -627,18 +625,19 @@ ul{font-family: 'PT Sans', sans-serif;}
 
 .hovereffect h2 {
   text-transform: uppercase;
-  color: #fff;
+  color: #f22b2b;
   text-align: center;
   position: relative;
   font-size: 17px;
   padding: 6px;
-  background: rgb(214, 68, 52);
+  background: rgb(255, 255, 255);
   -webkit-transform: translateY(45px);
   -ms-transform: translateY(45px);
   transform: translateY(45px);
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
   top: 44px;
+  /* border: 1px solid #f22b2b; */
 }
 
 .hovereffect:hover h2 {
@@ -653,7 +652,7 @@ ul{font-family: 'PT Sans', sans-serif;}
   padding: 7px 14px;
   text-transform: uppercase;
   color: #fff;
-  border: 2px solid #d2bf22;
+  border: 2px solid #f17373;
   background-color: transparent;
   opacity: 0;
   filter: alpha(opacity=0);
@@ -665,7 +664,7 @@ ul{font-family: 'PT Sans', sans-serif;}
   font-weight: normal;
   margin: -52px 0 0 0;
   padding: 103px 133px;
-  background-color: rgba(5, 24, 41, 0.9);
+  background-color: rgba(0, 0, 0, 0.89);
 }
 
 .hovereffect:hover a.info {
@@ -695,7 +694,52 @@ ul{font-family: 'PT Sans', sans-serif;}
 .ind-title .breadcrumb .breadcrumb-item a {
     color: #d64434;
 }
-
+/* ===============sub industry ======== */
+.bagging{
+   border-bottom: 1px solid #eaeaea;
+}
+.bagging .title h1{
+  color: #3e3e3e;
+  text-align: center;
+  font-size: 27px;
+  text-transform: uppercase;
+  padding: 36px 16rem;
+  position: relative;
+  margin-top: 6rem;
+}
+.bagging .title h1:before{
+    content: "";
+    background: #f22b2b;
+    width: 6%;
+    height: 2px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    bottom: 19px;
+  
+}
+.wc-bag-slider{
+  margin-top: 6rem;
+}
+ .wc-bag-slider .item{
+  border: 1px solid #f22b2b;
+}
+.bagging .design{
+  margin-top: 5rem;
+  margin-bottom: 10rem;
+}
+.bagging .dl{
+  text-align: center;
+  margin-top: 5rem;
+}
+.bagging .dl .fa-dl{
+  margin: 2px 6px 0 2px;
+}
+.poultry .design img{
+  width: 75%;
+  margin: 0 auto;
+}
 
 /* ===============================================
        CONTACT

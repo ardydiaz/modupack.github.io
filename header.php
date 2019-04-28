@@ -26,7 +26,7 @@
 					<div class="col-lg-4 col-md-4 col-sm-4">
 						<div class="wc-map" data-scrollreveal="enter right after 0.5s">
 							<img src="assets/img/header/v1/map-icon.png" class="img-map" alt="">
-							<p class="mp-contact headqtr">HEADQUARTERS---ardy</p>
+							<p class="mp-contact headqtr">HEADQUARTERS</p>
 							<p class="mp-contact">Blk.7 Lot 6 G. Tan Avenue, First Bulacan Industrial City(FBIC) Tikay, Malolos City Bulacan Philippines</p>
 						</div>
 					</div>

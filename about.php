@@ -188,7 +188,7 @@ Fishmeal Plant.</p>
 		</div>
 	</div>
 </section>
-<section class="team">
+<!-- <section class="team">
 	<div class="container" >
 		<div class="row">
 			<div class="team-text text-center">
@@ -230,7 +230,7 @@ Fishmeal Plant.</p>
 			
 		</div>
 	</div>
-</section>
+</section> -->
 
 
 

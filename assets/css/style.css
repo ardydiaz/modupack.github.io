@@ -563,13 +563,13 @@ ul{font-family: 'PT Sans', sans-serif;}
   background: #f22b2b;
 }
 .industry .img-hoverbg{
-    background-color: #cecececf;
+    background-color: #000000cf;
 }
 .owl-nav, .owl-dots{
   display: none;
 }
 .img-hoverbg a,.img-hoverbg p{
-  color: #f22b2b ! important;
+  color: #ffffff ! important;
 }
 .img-hoverbg h2{
   color: #f22b2b ! important;
@@ -1062,6 +1062,7 @@ ul{font-family: 'PT Sans', sans-serif;}
 .col-mar{margin-bottom: 10px}
 .sticky{height: auto;}
 
+
 /*--- WHY---- */
 .choose .img-icon {width: 30%;}
 .offset-pic:after, .owl-teams:after {
@@ -1079,6 +1080,7 @@ ul{font-family: 'PT Sans', sans-serif;}
 .industry h1{
   font-size: 41px;
   margin-bottom: 15px;
+  color: #fff;
 }
 
 /*--- ABOUT---- */
@@ -1093,7 +1095,12 @@ ul{font-family: 'PT Sans', sans-serif;}
   padding-bottom: 31px;
   padding-top: 3px;
 }
-.btn-more{padding: 6px 43px;}
+.btn-more{
+    padding: 1rem 2rem;
+    width: 100%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
 .btn-history{padding: 7px 37px;}
 .navbar-toggle{
   background-color: #d64434;
@@ -1105,11 +1112,14 @@ ul{font-family: 'PT Sans', sans-serif;}
     margin: 0;
     text-align: center;
     margin-bottom: 23px;
+    margin-bottom: 23px;
+    color: #fff;
 }
 .btn-industtry{
     margin: 0 auto;
     display: block;
     float: none;
+    color: #fff;
 }
 
 /*--- CONTACT US---- */
@@ -1143,7 +1153,6 @@ ul{font-family: 'PT Sans', sans-serif;}
 
 
 
-
  @media (min-width: 768px) {
   .navbar .navbar-nav {
       display: inline-block;
@@ -1152,4 +1161,5 @@ ul{font-family: 'PT Sans', sans-serif;}
   .navbar .navbar-collapse {
       text-align: center;
   }
+  
 } 
